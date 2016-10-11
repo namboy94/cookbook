@@ -2,4 +2,4 @@
 
 ## Backwaren
 
-  - [Vanillekipferl](backwaree/vanillekipferl.md)
+  - [Vanillekipferl](backwaren/vanillekipferl.md)
