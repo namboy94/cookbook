@@ -1,4 +1,4 @@
-# Contributing to cookbook
+# Contributing
 
 All active development is done on a
 [self-hosted Gitlab server](https://gitlab.namibsun.net).
